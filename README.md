@@ -2,11 +2,20 @@
 
 ## GitHub Actions
 
-[![Build and Tests](https://github.com/ugioni/unit-tests-jest/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/ugioni/unit-tests-jest/actions/workflows/node.js.yml)
+# GerenciadorDeTarefas
 
-## SonarCloud
+O `GerenciadorDeTarefas` é uma classe em JavaScript projetada para gerenciar uma lista de tarefas. A classe fornece métodos para adicionar, remover, atualizar, e listar tarefas, além de funcionalidades adicionais como marcar tarefas como concluídas, adicionar tags e filtrar tarefas por data e prioridade.
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ugioni_unit-tests-jest&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ugioni_unit-tests-jest)
+## Instalação
+
+Para utilizar a classe `GerenciadorDeTarefas` em seu projeto, você pode cloná-lo ou copiá-lo diretamente para o seu repositório. Certifique-se de que seu projeto está configurado para usar módulos CommonJS ou ajuste conforme necessário.
+
+### Clonando o Repositório
+
+Se você estiver usando Git, clone o repositório:
+
+## bash
+## git clone https://github.com/Freitas86/GustavoFreitas-Turma01-Trabalho01
 
 ## Getting Started
 
@@ -25,3 +34,7 @@ All execution artifacts can be found in `./coverage`, if you want to remove thes
     <li>src: source code</li>
     <li>test: unit test files</li>
 </ul>
+
+
+
+
